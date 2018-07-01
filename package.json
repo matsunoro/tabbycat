@@ -62,7 +62,7 @@
   "repository": "https://github.com/TabbycatDebate/tabbycat",
   "license": "UNLICENSED",
   "devDependencies": {
-    "eslint-config-airbnb-base": "^12.x",
+    "eslint-config-airbnb-base": "^13.x",
     "eslint-plugin-html": "^4.x",
     "eslint-plugin-import": "^2.x",
     "postcss-selector-parser": "^4.x",
